@@ -1,5 +1,5 @@
 {
-  "name": "nodeprj-webvs-gpio",
+  "name": "nodeprj-webvs-pygpio",
   "version": "0.0.0",
   "private": true,
   "scripts": {
